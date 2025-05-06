@@ -1,5 +1,5 @@
-let nomeHeroi = "Gui";
-let xpHeroi = 7001;
+let nomeHeroi = "Thor";
+let xpHeroi = 100000;
 let levelHeroi = "";
 
 if (xpHeroi <= 1000) {
